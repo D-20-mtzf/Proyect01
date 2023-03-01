@@ -7,7 +7,7 @@ package com.mycompany.processmanager;
 
 /**
  *
- * @author USER
+ * @author Daniel M
  */
 //improtamos las librerias  necesarias
 import java.util.Scanner;
