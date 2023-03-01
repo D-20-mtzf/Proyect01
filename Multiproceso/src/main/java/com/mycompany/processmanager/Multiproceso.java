@@ -11,7 +11,7 @@ package com.mycompany.processmanager;
  */
 //improtamos las librerias  necesarias
 import java.util.Scanner;
-//Creamos la clase peoccesManager haciendo la imlementacion en Runneable
+//Creamos la clase peoccesManager haciendo la implementacion en Runneable
 public class Multiproceso implements Runnable {
 //definimos variables
     private Thread thread;
