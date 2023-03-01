@@ -51,7 +51,7 @@ public class Multiproceso implements Runnable {
                     e.printStackTrace();
                 }
             } else {
-                // Run the process
+                // Corre el proceso
                 System.out.println("Proceso ejecutando");
                 try {
                     Thread.sleep(2000);
